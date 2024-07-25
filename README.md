@@ -13,7 +13,7 @@ Created by and tested with members of the LGBTQ+ community.
 
 ```{r, eval=F}
 if (!require("remotes", quietly = TRUE)){install.packages("remotes")}
-remotes::install_github("wojahn/PrideBar")
+remotes::install_github("XylemFurry/PrideBar")
 ```
 
 ## How to use *PrideBar*
