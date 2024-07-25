@@ -34,7 +34,7 @@ FadePrideBar() #clean up the bar
 
 ## Key
 
-*these flags are not numbered in any particular order*
+***NOTE: these flags are not numbered in any particular order***
 
 1 Classic Rainbow    ❤️❤️❤️❤️❤️🧡🧡🧡🧡🧡💛💛💛💛💛💚💚💚💚💚💙💙💙💙💙💜💜💜💜
 
